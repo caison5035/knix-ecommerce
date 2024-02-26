@@ -1,14 +1,14 @@
 # knix-ecommerce
 
 This project uses:
-1) React
-2) Tailwind CSS
-3) AntD
-4) TypeScript
-5) PNPM
+1)_ React_
+2) _Tailwind CSS_
+3) _AntD_
+4) _TypeScript_
+5) _PNPM_
 
 To run project locally please follow:
-1) npm i -g pnpm
-2) pnpm install
-3) pnpm run dev
+1) **npm i -g pnpm**
+2) **pnpm install**
+3) **pnpm run dev**
 
